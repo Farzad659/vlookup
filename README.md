@@ -14,3 +14,6 @@ To overcome this, I wrote a **Bash Script** that efficiently performs lookups on
 1. Clone the repository:
 2. ```bash
    git clone https://github.com/Farzad659/vlookup.git
+
+## Contributing
+Contributions are welcome! If you'd like to improve the script, feel free to fork the repository, create a branch and submit a pull request.
